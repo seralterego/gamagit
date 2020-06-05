@@ -45,4 +45,4 @@ Twitter: [@seralterego](https://twitter.com/seralterego)
 
 ---
 
-:link: **Link da aplicação:** <>
+:link: **Link da aplicação:** <https://seralterego-gamagit.netlify.app/>
